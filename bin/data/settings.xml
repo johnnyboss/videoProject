@@ -1,0 +1,24 @@
+<group>
+    <fill>1</fill>
+    <radius>140</radius>
+    <center>512, 384</center>
+    <color>100, 100, 140, 255</color>
+    <circle_res>5</circle_res>
+    <screen_size/>
+<group/>
+	<redT>0</redT>
+	<greenT>0</greenT>
+	<blueT>1</blueT>
+	<point_size>5</point_size>
+<camara>0</camara>
+<original>0</original>
+<r_Line>0</r_Line>
+	<g_Line>0</g_Line>
+	<b_Line>0</b_Line>
+	<rXY>0</rXY>
+	<gXY>0</gXY>
+	<bXY>0</bXY>
+<rTri>0</rTri>
+	<gTri>0</gTri>
+	<bTri>0</bTri>
+</group>
